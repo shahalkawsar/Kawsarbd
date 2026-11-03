@@ -46,7 +46,7 @@ window.PORTFOLIO_DATA = {
 
   // 7. FEATURED VIDEO — use a YouTube video ID, not the whole URL
   // Example: for youtube.com/watch?v=AbCd1234, the ID is AbCd1234
-  featuredVideoId: "sMo-37TNDVd8hFtZ",
+  featuredVideoId: "v-OgD_XRjnyJRVKe",
   showcaseEyebrow: "FEATURED PROJECT",
   showcaseHeadingLine1: "See the Work",
   showcaseHeadingLine2: "Feel the Difference",
@@ -55,18 +55,18 @@ window.PORTFOLIO_DATA = {
   // 8. RECENT PROJECTS — keep the image filenames as written or update both
   // the filename here and the actual file in assets.
   projects: [
-    { title: "Project One", category: "Video Editing", thumbnail: "assets/thumbnail1.jpg", videoId: "YOUR_VIDEO_ID_1" },
-    { title: "Project Two", category: "Short-form Video", thumbnail: "assets/thumbnail2.jpg", videoId: "YOUR_VIDEO_ID_2" },
-    { title: "Project Three", category: "Creative Project", thumbnail: "assets/thumbnail3.jpg", videoId: "YOUR_VIDEO_ID_3" },
-    { title: "Project Four", category: "Motion Graphics", thumbnail: "assets/thumbnail4.jpg", videoId: "YOUR_VIDEO_ID_4" },
-    { title: "Project Five", category: "Social Content", thumbnail: "assets/thumbnail5.jpg", videoId: "YOUR_VIDEO_ID_5" }
+    { title: "Project One", category: "Video Editing", thumbnail: "", videoId: "VNlaXxb_BjZZcQlo1" },
+    { title: "Project Two", category: "Short-form Video", thumbnail: "", videoId: "YOUR_VIDEO_ID_2" },
+    { title: "Project Three", category: "Creative Project", thumbnail: "", videoId: "YOUR_VIDEO_ID_3" },
+    { title: "Project Four", category: "Motion Graphics", thumbnail: "", videoId: "YOUR_VIDEO_ID_4" },
+    { title: "Project Five", category: "Social Content", thumbnail: "", videoId: "YOUR_VIDEO_ID_5" }
   ],
 
   // 9. LONG-FORM PROJECTS
   longFormProjects: [
-    { title: "Long-form Project 01", category: "YouTube Video", thumbnail: "assets/videothumbnail1.jpg", videoId: "YOUR_LONG_VIDEO_ID_1" },
-    { title: "Long-form Project 02", category: "YouTube Video", thumbnail: "assets/videothumbnail2.jpg", videoId: "YOUR_LONG_VIDEO_ID_2" },
-    { title: "Long-form Project 03", category: "Storytelling Edit", thumbnail: "assets/videothumbnail3.jpg", videoId: "YOUR_LONG_VIDEO_ID_3" },
+    { title: "Long-form Project 01", category: "YouTube Video", thumbnail: "", videoId: "YOUR_LONG_VIDEO_ID_1" },
+    { title: "Long-form Project 02", category: "YouTube Video", thumbnail: "", videoId: "YOUR_LONG_VIDEO_ID_2" },
+    { title: "Long-form Project 03", category: "Storytelling Edit", thumbnail: "", videoId: "YOUR_LONG_VIDEO_ID_3" },
     { title: "Long-form Project 04", category: "Cinematic Edit", thumbnail: "assets/videothumbnail4.jpg", videoId: "YOUR_LONG_VIDEO_ID_4" }
   ],
 
@@ -92,7 +92,7 @@ window.PORTFOLIO_DATA = {
   whatsappNumber: "01784681409", // digits only, include country code
   socials: {
     facebook: "https://facebook.com/ShahAlKawsar",
-    youtube: "https://youtube.com/@alkawsar-o2x?si=j-eKMS-3SlPbdDFT",
+    youtube: "https://youtube.com/h_1RHt62pii7dnOE",
     linkedin: "",
     instagram: "https://www.instagram.com/__heartless__boy__kawsar?"
   }
